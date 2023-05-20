@@ -6,7 +6,7 @@ A simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScript.
 
 The Rock Paper Scissors game allows you to play against the computer. Choose your move by clicking on the corresponding button, and the computer will make its choice randomly. The game will display the result, whether it's a win, loss, or draw, and keep track of the score.
 
-![Rock Paper Scissors Screenshot](./images/Screenshot.png)
+![Rock Paper Scissors Screenshot](Screenshot.png)
 
 ## How to Play
 

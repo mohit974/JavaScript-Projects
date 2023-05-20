@@ -23,8 +23,8 @@ The app provides the following gameplay features:
 
 ## Screenshots
 
-![Fighting Game](./Images/Screenshot.png)
-![Game](./Images/ScreenshotResult.png)
+![Fighting Game](Screenshot.png)
+![Game](ScreenshotResult.png)
 
 ## Technologies Used
 
