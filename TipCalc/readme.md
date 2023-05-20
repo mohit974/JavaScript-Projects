@@ -8,7 +8,6 @@ The tip calculator allows you to calculate the total bill amount per person base
 
 ![Tip Calculator Screenshot](./images/Screenshot.png)
 
-![Testing](https://images.pexels.com/photos/16307711/pexels-photo-16307711/free-photo-of-red-cabrio-car-driving-in-the-desert.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 
 ## Usage
