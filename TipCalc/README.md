@@ -29,6 +29,6 @@ The tip calculator allows you to calculate the total bill amount per person base
 - CSS
 - JavaScript
 
-Feel free to customize and enhance the tip calculator according to your needs.
+
 
 
