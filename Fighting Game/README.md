@@ -26,6 +26,11 @@ The app provides the following gameplay features:
   - Attack: Press 'P' key
   - Heal: Press 'L' key
 
+## Features
+- To enhance the gaming experience, this game also incorporates sound effects. It includes different sounds for actions such as attacking, healing, and victory. 
+- Button to simulate the whole game also available.
+
+
 
 ## Technologies Used
 
