@@ -6,8 +6,7 @@ This is a simple tip calculator implemented in HTML, CSS, and JavaScript.
 
 The tip calculator allows you to calculate the total bill amount per person based on the bill total, tip percentage, and number of people splitting the bill. You can enter the bill total, tip percentage, and number of people in the respective input fields, and the calculator will update the per person total amount dynamically.
 
-![Tip Calculator Screenshot](Screenshot.png)
-
+![Screenshot](https://github.com/mohit-1606/JavaScript-Projects/assets/129540717/6d3a1bd4-3b04-438f-9f90-0c488e6168c9)
 
 
 ## Usage
