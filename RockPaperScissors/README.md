@@ -36,5 +36,5 @@ The Rock Paper Scissors game allows you to play against the computer. Choose you
 - CSS
 - JavaScript
 
-Feel free to customize and enhance the game according to your preferences.
+
 
