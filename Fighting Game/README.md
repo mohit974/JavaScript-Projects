@@ -28,7 +28,7 @@ The app provides the following gameplay features:
 
 ## Features
 - To enhance the gaming experience, this game also incorporates sound effects. It includes different sounds for actions such as attacking, healing, and victory. 
-- Button to simulate the whole game also available.
+- Option to simulate the whole game also available.
 
 
 
